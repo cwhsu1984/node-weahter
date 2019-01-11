@@ -1,0 +1,15 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "a weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cwhsu",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "request": "^2.88.0"
+  }
+}
